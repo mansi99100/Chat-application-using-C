@@ -137,7 +137,6 @@ Connection closed.
 
 **Mansi Rawat**
 
-- GitHub: https://github.com/mansi99100
-- Project: https://github.com/mansi99100/Chat-application-using-C
+
 
 
